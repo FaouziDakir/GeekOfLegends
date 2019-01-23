@@ -1,4 +1,15 @@
-﻿Dans cet exercice tu devras créer :
+﻿# GeekOfLegends
+
+## Consigne de travail :
+>* Créer un repository Github et Faire des commits avec des noms cohérent et explicite
+>* Utiliser la structure de dossier apprise en classe
+>* Utiliser de manière approfondie la matière c'est a dire, utiliser les class, les imports les extends.
+>* L'histoire doit être raconté dans la console en utilisant un maximum le code pour retourner les infos par exemple :
+J'ai un objet dont le nom est "Casar" dans la console je ferais apparaitre : "Casar perd 30 de vie" je ferais 
+*console.log(casar.nom + " perd " + boss.attaque + " de vie" );*  et non pas 
+*console.log("Casar perd 30 de vie");*
+## Instructions du jeu :
+#### Il te faut créer :
 
 ### - Trois boss(Sauron,Chronos,Lilith). 
  Chaque boss possédera les propriétés suivantes :
@@ -85,5 +96,5 @@ Avec les propriétés et actions suivantes :
 
 ## Bonus :
 
-- Pour l'énigme, la réponse de l'utilisateur devra être mise en minuscule et les éventuels espace supprimés (exemple : "Un Marron" => "unmarron"). Il faudra aussi trouver une méthode qui permet de vérifier si la bonne réponse est contenue dans la réponse de l'utilisateur (exemple : bonne réponse = "homme", réponse utilisateur = "les HoMmEs" => la réponse est bonne).
-# GeekOfLegends
+>- Pour l'énigme, la réponse de l'utilisateur devra être mise en minuscule et les éventuels espace supprimés (exemple : "Un Marron" => "unmarron"). Il faudra aussi trouver une méthode qui permet de vérifier si la bonne réponse est contenue dans la réponse de l'utilisateur (exemple : bonne réponse = "homme", réponse utilisateur = "les HoMmEs" => la réponse est bonne).
+
