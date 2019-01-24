@@ -19,6 +19,8 @@ J'ai un objet dont le nom est "Casar" dans la console je ferais apparaitre : "Ca
 
 #### A Savoir sur les boss :
 >* une fois le boss à 20% de ses points de vie, il posera à tes personnages (l'utilisateur) une énigme (choisie aléatoirement entre minimum 3 énigmes) à laquelle ils devront répondre en 3 essais au maximum, s'ils échouent, ils mourront, sinon ils vaincront le boss.
+
+
 #### Exemples d'énigmes traditionnelles :
 >* Une fois que l'on me prononce, je n'existe plus. Qui suis-je ?
 >* Je suis d'eau,je suis d'air,et je suis d'électricité. Qui suis-je ?
@@ -27,6 +29,7 @@ J'ai un objet dont le nom est "Casar" dans la console je ferais apparaitre : "Ca
 >* Quel est l'indice du premier "i" de cette question ?
 >* Que fait retourne Math.floor(1.3 * 10) ?
 
+>* Le choix du type d'enigme est à votre guise cela peut même être un mix des styles
 
 
 ### - Trois héros : Un mage, Un guerrier, Un archer.
